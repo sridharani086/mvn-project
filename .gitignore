@@ -1,5 +1,9 @@
 # Compiled class file
 *.class
+ new file:   target/flipkart_app/WEB-INF/web.xml
+        new file:   target/flipkart_app/index.jsp
+        new file:   target/maven-archiver/pom.properties
+
 
 # Log file
 *.log
